@@ -21,7 +21,7 @@ img {
 <div class="col s2">&nbsp;</div>
 <div class="col s8">
 
-    <p>"If you need inspiring words, don't do it." --Elon Musk</p>
+    <p>"Hello RGA Cloud Team!"</p>
 
 </div>
 </div>
