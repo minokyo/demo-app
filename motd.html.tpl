@@ -21,7 +21,7 @@ img {
 <div class="col s2">&nbsp;</div>
 <div class="col s8">
 
-    <p>" Aim for the moon. If you miss, you may hit a star."--W. Clement Stone</p>
+    <p>"If you need inspiring words, don't do it." --Elon Musk</p>
 
 </div>
 </div>
