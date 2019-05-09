@@ -23,7 +23,7 @@ variable "zone" {
 }
 
 variable "network_name" {
-  default = "rga-demo"
+  default = "rga-demo-app"
 }
 
 variable "project" {
